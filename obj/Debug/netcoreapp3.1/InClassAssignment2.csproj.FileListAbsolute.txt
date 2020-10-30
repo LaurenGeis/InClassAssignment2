@@ -1,0 +1,13 @@
+C:\Users\Lauren\source\repos\InClassAssignment2\bin\Debug\netcoreapp3.1\InClassAssignment2.exe
+C:\Users\Lauren\source\repos\InClassAssignment2\bin\Debug\netcoreapp3.1\InClassAssignment2.deps.json
+C:\Users\Lauren\source\repos\InClassAssignment2\bin\Debug\netcoreapp3.1\InClassAssignment2.runtimeconfig.json
+C:\Users\Lauren\source\repos\InClassAssignment2\bin\Debug\netcoreapp3.1\InClassAssignment2.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\InClassAssignment2\bin\Debug\netcoreapp3.1\InClassAssignment2.dll
+C:\Users\Lauren\source\repos\InClassAssignment2\bin\Debug\netcoreapp3.1\InClassAssignment2.pdb
+C:\Users\Lauren\source\repos\InClassAssignment2\obj\Debug\netcoreapp3.1\InClassAssignment2.csprojAssemblyReference.cache
+C:\Users\Lauren\source\repos\InClassAssignment2\obj\Debug\netcoreapp3.1\InClassAssignment2.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\InClassAssignment2\obj\Debug\netcoreapp3.1\InClassAssignment2.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\InClassAssignment2\obj\Debug\netcoreapp3.1\InClassAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\InClassAssignment2\obj\Debug\netcoreapp3.1\InClassAssignment2.dll
+C:\Users\Lauren\source\repos\InClassAssignment2\obj\Debug\netcoreapp3.1\InClassAssignment2.pdb
+C:\Users\Lauren\source\repos\InClassAssignment2\obj\Debug\netcoreapp3.1\InClassAssignment2.genruntimeconfig.cache
